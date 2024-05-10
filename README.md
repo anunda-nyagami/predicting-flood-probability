@@ -1,0 +1,21 @@
+Predicting the probability of floods using the following variables:
+- MonsoonIntensity
+- TopographyDrainage
+- RiverManagement
+- Deforestation
+- Urbanization
+- ClimateChange
+- DamsQuality
+- Siltation
+- AgriculturalPractices
+- Encroachments
+- IneffectiveDisasterPreparedness
+- DrainageSystems
+- CoastalVulnerability
+- Landslides
+- Watersheds
+- DeterioratingInfrastructure
+- PopulationScore
+- WetlandLoss
+- InadequatePlanning
+- PoliticalFactors
